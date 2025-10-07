@@ -42,5 +42,5 @@ How to Use This Repository
 The .pbix file contains the complete Power BI report.
 
 The Data folder contains the source files used for this project.
+![Dashboard Preview](https://github.com/Shobnam/Power-BI-Sales-Returns-Analysis-Dashboard/blob/main/ss.png)
 
-(https://github.com/Shobnam/Power-BI-Sales-Returns-Analysis-Dashboard/blob/main/ss.png)
