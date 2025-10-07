@@ -43,4 +43,4 @@ The .pbix file contains the complete Power BI report.
 
 The Data folder contains the source files used for this project.
 
-The Images folder contains the dashboard screenshot.
+(https://github.com/Shobnam/Power-BI-Sales-Returns-Analysis-Dashboard/blob/main/ss.png)
